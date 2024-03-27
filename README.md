@@ -1,7 +1,7 @@
 # Multicrop-Dataset
-images for 23 crops split into train,test and val sets
+images for 26 classes (including healthy for some crops) of crops diseases split into train,test and val sets
 
-### These are the 23 crops/classes included in this dataset :-
+### These are the 26 classes included in this dataset :-
 
 'Citrus Black spot',
 'Citrus canker',
@@ -25,5 +25,8 @@ images for 23 crops split into train,test and val sets
 'Tomato__Target_Spot',
 'Bean_angular_leaf_spot',
 'Bean_healthy',
-'Bean_rust'
+'Bean_rust',
+'Rice Bacterial leaf blight',
+'Rice Brown spot',
+'Rice Leaf smut'
  
